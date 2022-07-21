@@ -12,7 +12,7 @@
 
 ##
 		
-  <h3 align="center" height="20" >Linguagens e Ferramentas de Interesse:</h3>
+  <h3 align="center" height="20" >Languages and tools of greatest interest:</h3>
 	
 				 
 				 
@@ -35,7 +35,7 @@
 ##
 
 </div> 
-   <h3 align="center" height="20" >GitHub Estatísticas:</h3>
+   <h3 align="center" height="20" >GitHub Statistics:</h3>
 
  <div align="center">
   
