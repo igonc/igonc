@@ -4,7 +4,7 @@
 	
 ```RD{
 
- <>Data Scientist - Starting Fullstack Dev career - Computer Science Student - Food Engineer</>
+ <> Data Scientist - Starting in Fullstack Dev - Computer Science Student - Food Engineer PhD </>
 
 ```
 	
