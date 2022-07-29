@@ -7,10 +7,13 @@
  Data Scientist │ Starting in Software Engineering │ Computer Science Student │ Food Engineer (PhD)
 
 ```
+	
+</h3>
+
+<h3 align="center" height="20" >
 
 I am a Food Engineer with +15 years of experience in research, development and innovation in Food Science and Technology, Mathematical Modeling, Process Design, Simulation & Optmization, Manufacturing Cost Analysis, and Food Analytical Methods, 
-I have a +10 years of experience in Data Science applied to R&D, and trained in tools such as Python and R with projects especially focused on Machine Learning and Artificial Neural Network.
-
+I hold a +10 years of experience in Data Science trained in Statistical tools, Python and R with projects especially focused on Machine Learning and Artificial Neural Network. 
 **Nowadays, I'm on my journey in Computer Science with a career oriented towards Software Engineering and Data Science**
 
 Soft skills:
