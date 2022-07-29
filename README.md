@@ -5,6 +5,17 @@
 ```RD{
 
  Data Scientist │ Starting in Software Engineering │ Computer Science Student │ Food Engineer (PhD)
+ 
+I am a Food Engineer with +15 years of experience in research, development and innovation in Food Science and Technology, Mathematical Modeling, Process Design, Simulation & Optmization, Manufacturing Cost Analysis, and Food Analytical Methods, 
+I have a +10 years of experience in Data Science applied to R&D, and trained in tools such as Python and R with projects especially focused on Machine Learning and Artificial Neural Network.
+
+**Nowadays, I'm on my journey in Computer Science with a career oriented towards Software Engineering and Data Science**
+
+Soft skills:
+Time Management | Critical Thinking | Creativity | Empathy | Teamwork | Emotional Intelligence | Problem-solving | Communication | Work Ethic | Conflict Resolution | Resilience | Adaptability | Self-Motivation
+
+Hard skills: 
+Intellectual Property | R&D | Innovation | Agil Management | Data Science | SQL | Python & R | Process Design, Simulation & Optimization | Cost & Budget Analysis | Mathematical Modeling | Machine Learning | Artificial Neural Network
 
 ```
 	
