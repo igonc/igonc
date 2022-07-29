@@ -1,4 +1,4 @@
-<h3 align="center" height="20" >Biography:</h3>
+<h3 align="center" height="20" >Profile:</h3>
 
 <h3 align="center" width="150">
 	
