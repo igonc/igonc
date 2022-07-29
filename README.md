@@ -4,6 +4,7 @@
 	
 ```RD{
  Professional Profile:
+	
  Data Scientist │ Starting in Software Engineering │ Computer Science Student │ Food Engineer (PhD)
 ```	
 </h3>
@@ -26,7 +27,7 @@ Intellectual Property | R&D | Innovation | Agil Management | Data Science | SQL 
 
 ##
 		
-  <h3 align="center" height="20" >Languages and tools of greatest interest:</h3>
+  <h4 align="center" height="20" >Languages and tools of greatest interest:</h4>
 	
 				 
 				 
@@ -49,7 +50,7 @@ Intellectual Property | R&D | Innovation | Agil Management | Data Science | SQL 
 ##
 
 </div> 
-   <h3 align="center" height="20" >GitHub Statistics:</h3>
+   <h4 align="center" height="20" >GitHub Statistics:</h4>
 
  <div align="center">
   
