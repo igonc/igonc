@@ -9,7 +9,7 @@
 ```	
 </h3>
 
-<h5 align="justify" height="20" >
+<h4 align="justify" height="20" >
 
 I am a Food Engineer with +15 years of experience in research, development and innovation in Food Science and Technology, Mathematical Modeling, Process Design, Simulation & Optmization, Manufacturing Cost Analysis, and Food Analytical Methods, 
 I hold a +10 years of experience in Data Science trained in Statistical tools, Python and R with projects especially focused on Machine Learning and Artificial Neural Network. 
@@ -21,7 +21,7 @@ Time Management | Critical Thinking | Creativity | Empathy | Teamwork | Emotiona
 Hard skills: 
 Intellectual Property | R&D | Innovation | Agil Management | Data Science | SQL | Python & R | Process Design, Simulation & Optimization | Cost & Budget Analysis | Mathematical Modeling | Machine Learning | Artificial Neural Network
 	
-</h5>
+</h4>
 
 ##
 		
