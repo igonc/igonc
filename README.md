@@ -4,7 +4,7 @@
 	
 ```RD{
 
- <> Data Scientist - Starting in Software Engineering career - Computer Science Student - Food Engineer PhD </>
+ Data Scientist │ Starting in Software Engineering │ Computer Science Student │ Food Engineer (PhD)
 
 ```
 	
