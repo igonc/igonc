@@ -12,9 +12,10 @@
 
 Welcome to my profile!
 
-As you may have seen, I’m Rodrigo Cavalcanti, and I’m a Brazilian guy. I am a Food Engineer with a long experience in research, development and innovation in Data Science, Food Science and Technology, Mathematical Modeling, Process Design, Simulation & Optmization, Manufacturing Cost Analysis, and Food Analytical Methods, 
-My experience in Data Science is mostly in using Statistical tools, Python and R with projects especially focused on Machine Learning and Artificial Neural Network. 
-**Nowadays, I'm on my journey in Computer Science with a career oriented towards Software Engineering and Data Science**
+As you may have seen, I’m Rodrigo Cavalcanti, and I’m a Brazilian guy. I am a Food Engineer with a long experience in research, development and innovation in Food Science and Technology, Data Science, Mathematical Modeling, Process Design, Simulation & Optmization, Manufacturing Cost Analysis, and Food Analytical Methods, 
+My background in data science is mostly related to research projects focused on the prediction and pattern recognition of food properties using machine learning and artificial neural networks.
+	
+**Nowadays, I'm on my journey in Computer Science with a career oriented towards Software Engineering and Big Data**
 
 Soft skills:
 Time Management | Critical Thinking | Creativity | Empathy | Teamwork | Emotional Intelligence | Problem-solving | Communication | Work Ethic | Conflict Resolution | Resilience | Adaptability | Self-Motivation
