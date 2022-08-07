@@ -3,9 +3,8 @@
 <h3 align="center" width="150">
 	
 ```RD{
- Professional Profile:
 	
- Data Scientist │ Software Engineering │ Computer Science Student │ Food Engineer
+ Data Science │ Software Engineering │ Computer Science │ Food Engineer
 ```	
 </h3>
 
