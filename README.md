@@ -5,14 +5,16 @@
 ```RD{
  Professional Profile:
 	
- Data Scientist │ Starting in Software Engineering │ Computer Science Student │ Food Engineer (PhD)
+ Data Scientist │ Software Engineering │ Computer Science Student │ Food Engineer
 ```	
 </h3>
 
 <h4 align="justify" height="20" >
 
-I am a Food Engineer with +15 years of experience in research, development and innovation in Food Science and Technology, Mathematical Modeling, Process Design, Simulation & Optmization, Manufacturing Cost Analysis, and Food Analytical Methods, 
-I hold a +10 years of experience in Data Science trained in Statistical tools, Python and R with projects especially focused on Machine Learning and Artificial Neural Network. 
+Welcome to my profile!
+
+As you may have seen, I’m Rodrigo Cavalcanti, and I’m a Brazilian guy. I am a Food Engineer with a long experience in research, development and innovation in Data Science, Food Science and Technology, Mathematical Modeling, Process Design, Simulation & Optmization, Manufacturing Cost Analysis, and Food Analytical Methods, 
+My experience in Data Science is mostly in using Statistical tools, Python and R with projects especially focused on Machine Learning and Artificial Neural Network. 
 **Nowadays, I'm on my journey in Computer Science with a career oriented towards Software Engineering and Data Science**
 
 Soft skills:
