@@ -4,7 +4,7 @@
 	
 ```RD{
 	
- Data Science │ Software Engineering │ Computer Science │ Food Engineer
+ Data Science │ Fullstack Dev │ Computer Science │ Food Engineer
 ```	
 </h3>
 
