@@ -12,7 +12,7 @@
 
 Welcome to my profile!
 
-My name is Rodrigo Cavalcanti. Among many things, I’m a Brazilian guy, a food engineer researcher, a data scientist, and soon a computer scientist, but most of all I'm a work in progress. Throughout my journey, I always seek to be true to my path and my call, learning from my mistakes, gaining new knowledge and overcoming new challenges. During my path as a food engineer, I gained a fair amount of experience in analytical methods and tools, data science, mathematical modeling, computational simulation, manufacturing cost analysis, machine-learning and neural network. Nowadays, I'm following my path in computer science mostly focused on data science and fullstack development.
+My name is Rodrigo Cavalcanti. Among many things, I’m a Brazilian guy, a food engineer researcher, a data scientist, and soon a computer scientist, but most of all I'm a work in progress. Throughout my journey, I always seek to be true to my path and my call, learning from my mistakes, gaining new knowledge and overcoming new challenges. With a career oriented to technology and innovation, I have a long experience as a food engineer researcher in emerging technologies (HHP, sc-CO2, MW, etc.), analytical tools & methods, functional & nutraceutical products, dairy products, and manufacturing cost analysis. My background also includes data science, mathematical modeling, computational simulation, machine learning, and neural network. Currently, my interests are primarily focused on machine learning and artificial intelligence..
 
 
 Soft skills:
