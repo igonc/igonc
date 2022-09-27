@@ -4,7 +4,7 @@
 	
 ```RD{
 	
- Data Scientist │ Fullstack Dev │ Computer Science Student │ Food Engineer Researcher
+ Data Scientist │ Fullstack Dev │ Computer Science Student │ Food Engineer PhD
 ```	
 </h3>
 
