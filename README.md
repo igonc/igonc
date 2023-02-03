@@ -41,6 +41,7 @@ Time Management | Critical Thinking | Creativity | Empathy | Teamwork | Communic
   <img align="center" alt="rd-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="rd-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="rd-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="rd-R" height="40" width="40" src="https://github.com/igonc/devicon/blob/master/icons/r/r-original.svg">
   <img align="center" alt="rd-mysql" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="rd" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg">
   <img align="center" alt="rd-React" height="40" width="40" src="https://logospng.org/download/react/logo-react-1024.png">
@@ -50,6 +51,8 @@ Time Management | Critical Thinking | Creativity | Empathy | Teamwork | Communic
   <img align="center" alt="rd" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
   <img align="center" alt="rd" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="rd" height="30" width="30" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg">
+	
+	
   
   
 ##
