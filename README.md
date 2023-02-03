@@ -45,7 +45,6 @@ Time Management | Critical Thinking | Creativity | Empathy | Teamwork | Communic
   <img align="center" alt="rd-mysql" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="rd-Matlab" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg">
   <img align="center" alt="rd-React" height="40" width="40" src="https://logospng.org/download/react/logo-react-1024.png">
-  <img align="center" alt="rd-php" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
   <img align="center" alt="rd-git" height="40" width="40" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">
   <img align="center" alt="rd-Java" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
   <img align="center" alt="rd-Figma" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
