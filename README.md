@@ -4,7 +4,7 @@
 	
 ```RD{
 	
- Data Scientist │ Fullstack Dev │ Computer Science Student │ Food Engineer PhD
+ Data Scientist │ Fullstack Dev │ Food Engineer PhD | Freelancer
 ```	
 </h3>
 
@@ -14,12 +14,11 @@ Welcome to my profile!
 
 My name is Rodrigo Cavalcanti. Among many things, I’m a Brazilian guy, a food engineer researcher, a data scientist, and soon a computer scientist, but most of all I'm a work in progress. Throughout my journey, I always seek to be true to my path and my call, learning from my mistakes, gaining new knowledge and overcoming new challenges. With a career oriented to technology and innovation, I have a long experience as a food engineer researcher in emerging technologies (HHP, sc-CO2, MW, cold plasma, etc.), analytical tools & methods, functional & nutraceutical products, and manufacturing cost analysis. My background also includes data science, mathematical modeling, computational simulation, machine learning, and neural network. Currently, my interests are primarily focused on artificial intelligence.
 
+Hard skills: 
+SQL | Hadoop | MongoDB | Python | R | Supervised Learning | Unsupervised Learning | Ensemble Learning |  Reinforcement Learning | MLPs | RNNs | CNNs | PowerBI | Tableau | JavaScript | Java | Matlab | Simulink | SuperPro Designer | Aspen | Intellectual Property | Agile Management | Cost & Budget Analysis
 
 Soft skills:
-Time Management | Critical Thinking | Creativity | Empathy | Teamwork | Emotional Intelligence | Problem-solving | Communication | Work Ethic | Conflict Resolution | Resilience | Adaptability | Self-Motivation
-
-Hard skills: 
-Intellectual Property | R&D | Innovation | Agil Management | Data Science | SQL | Python & R | Process Design, Simulation & Optimization | Cost & Budget Analysis | Mathematical Modeling | Machine Learning | Artificial Neural Network
+Time Management | Critical Thinking | Creativity | Empathy | Teamwork | Communication | Emotional Intelligence | Problem-solving | Work Ethic | Conflict Resolution | Resilience | Adaptability | Self-Motivation
 	
 </h4>
 
