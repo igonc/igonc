@@ -11,14 +11,7 @@
 <h4 align="justify" height="20" >
 
 Welcome to my profile!
-
-My name is Rodrigo Cavalcanti. Among many things, I’m a Brazilian guy, a food engineer researcher, a data scientist, and soon a computer scientist, but most of all I'm a work in progress. Throughout my journey, I always seek to be true to my path and my call, learning from my mistakes, gaining new knowledge and overcoming new challenges. My career is oriented to technology and innovation with projects related to data mining, exploratory data analysis, data modeling, machine-learning, neural networks, and deep learning. My bakcground also includes a long experience as a food engineer researcher working with emerging technologies (HHP, sc-CO2, microwave, cold plasma, pulsed electric fields, etc.), analytical tools & methods, functional & nutraceutical products, dairy products, computational simulation, and manufacturing cost analysis..
-
-Hard skills: 
-SQL | Hadoop | MongoDB | Python | R | Supervised Learning | Unsupervised Learning | Ensemble Learning |  Reinforcement Learning | MLPs | RNNs | CNNs | PowerBI | Tableau | JavaScript | Java | Matlab | Simulink | SuperPro Designer | Aspen | Intellectual Property | Agile Management | Cost & Budget Analysis
-
-Soft skills:
-Time Management | Critical Thinking | Creativity | Empathy | Teamwork | Communication | Emotional Intelligence | Problem-solving | Work Ethic | Conflict Resolution | Resilience | Adaptability | Self-Motivation
+I am Rodrigo Cavalcanti, a food engineer researcher who is transitioning to the IT field with a focus on data science and full-stack development. I am passionate about technology and innovation, and I love to learn new things and face new challenges. I have a strong background in food engineering research, where I worked with emerging technologies, analytical tools and methods, functional and nutraceutical products, computational simulation and manufacturing cost analysis. I have also developed skills in data mining, exploratory data analysis, mathematical modeling, machine learning, deep learning and data visualization using various tools and languages such as SQL, Hadoop, MongoDB, Python, R, PowerBI, Tableau and JavaScript. I am currently pursuing a degree in computer science to expand my knowledge and skills in this field. I am looking for opportunities to apply my data science and full-stack development skills in the IT sector and work on exciting and meaningful projects. Some of my hard skills include: NoSQL | Python | R | Ensemble Learning | Reinforcement Learning | MLPs | RNNs | CNNs | Matlab | SuperPro Designer | Aspen | Intellectual Property | Agile Management | Cost & Budget Analysis. Some of my soft skills include: Time Management | Critical Thinking | Creativity | Empathy | Teamwork | Business Communication | Emotional Intelligence | Problem-solving | Work Ethic | Conflict Resolution | Resilience | Adaptability | Self-Motivation
 	
 </h4>
 
