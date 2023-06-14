@@ -4,15 +4,21 @@
 	
 ```RD{
 	
- Data Scientist │ Fullstack Dev │ Food Engineer Researcher | Consultant | Freelancer
+ Senior Postdoctoral Fellow | Professor | Data Scientist | Fullstack Developer
 ```	
 </h3>
 
 <h4 align="justify" height="20" >
 
 Welcome to my profile!
-	
-Hello! My name is Rodrigo. I'm a food engineer who is transitioning to the IT field with a focus on data science and full-stack development. I am passionate about technology and innovation, and I love to learn new things and face new challenges. I have a strong background in food science and technology research, where I worked with emerging technologies, analytical tools and methods, functional and nutraceutical products, computational simulation and manufacturing cost analysis. I have also developed skills in data mining, exploratory data analysis, mathematical modeling, machine learning, deep learning and data visualization. and JavaScript to create solutions for different problems. I am currently pursuing a degree in computer science to expand my knowledge and skills in this field. I am looking for opportunities to apply my knowledge in the IT sector and work on exciting and meaningful projects. Some of my hard skills include: MySQL | Python | R | MongoDB | Machine Learning | Neural Networks | PowerBI | Java | Matlab | SuperPro Designer | Aspen | Intellectual Property | Agile Management | Cost & Budget Analysis. Some of my soft skills include: Time Management | Critical Thinking | Creativity | Empathy | Teamwork | Business Communication | Emotional Intelligence | Problem-solving | Work Ethic | Conflict Resolution | Resilience | Adaptability | Self-Motivation
+
+I have a career oriented to technological innovation, sustainability and healthiness with projects focused on Product Design, Process Optimization, Exploratory Data Analysis, Mathematical Modeling, Machine-Learning and Deep Learning. My background includes a large experience as a food engineer researcher working with Emerging Technologies, Analytical Tools & Methods, Project Management, Functional & Nutraceutical Products, Computational Simulation and Manufacturing Cost Analysis.
+
+Skills: 
+
+Matlab | SuperPro Designer | Aspen | Intellectual Property | Agile Management | PDCA | Cost & Budget Analysis | Big Data | MySQL | MongoDB | Python | R | Machine Learning | RNNs | CNNs | PowerBI | Tableau | JavaScript | Java | 
+
+Time Management | Critical Thinking | Empathy | Teamwork | Business Communication | Emotional Intelligence | Problem-solving | Work Ethic | Conflict Resolution | Resilience | Adaptability | Self-Motivation
 	
 </h4>
 
