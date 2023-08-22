@@ -1,7 +1,7 @@
 <h3 align="center" height="20" ></h3>
 
 <h3 align="center" width="150">
-	
+Data Scientist | Fullstack Developer | Food Engineer | 	
 ```RD{
  Data Scientist | Fullstack Developer | Food Engineer | 
 ```	
