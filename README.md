@@ -62,9 +62,11 @@ Time Management | Critical Thinking | Empathy | Teamwork | Communication | Emoti
  <div align="center">
   
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igonc&theme=algolia&include_all_commits=true&count_private=true"/>
+  <br>
+  <img height="180em" width="400" src="https://github-readme-streak-stats.herokuapp.com?user=igonc&theme=algolia" alt="igonc"/>
+  <br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igonc&layout=compact&langs_count=7&theme=algolia"/>
   <br>
-  <img height="180em" width="400" src="https://github-readme-streak-stats.herokuapp.com?user=igonc&theme=algolia" alt="igonc"/> 
   <img height="180em" width="400" src="https://github-profile-trophy.vercel.app/?username=igonc&column=3&margin-w=15&margin-h=15&theme=algolia"/>
   
 ##
