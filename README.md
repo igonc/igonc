@@ -16,9 +16,9 @@ I have a career oriented to technological innovation, sustainability and healthi
 
 Skills: 
 
-Matlab | SuperPro Designer | Aspen | Intellectual Property | Agile Management | PDCA | Cost & Budget Analysis | Big Data | MySQL | MongoDB | Python | R | Machine Learning | RNNs | CNNs | PowerBI | Tableau | JavaScript | Java | 
+Big Data | SQL | NoSQL | Python | R | Machine Learning | RNNs | CNNs | PowerBI | Tableau | JavaScript | Java | Matlab | SuperPro Designer | Aspen | Intellectual Property | Agile Management | PDCA | Cost & Budget Analysis | 
 
-Time Management | Critical Thinking | Empathy | Teamwork | Business Communication | Emotional Intelligence | Problem-solving | Work Ethic | Conflict Resolution | Resilience | Adaptability | Self-Motivation
+Time Management | Critical Thinking | Empathy | Teamwork | Communication | Emotional Intelligence | Problem-solving | Work Ethic | Conflict Resolution | Resilience | Adaptability | Self-Motivation
 	
 </h4>
 
