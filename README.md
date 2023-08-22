@@ -3,7 +3,6 @@
 <h3 align="center" width="150">
 	
 ```RD{
-	
  Data Scientist | Fullstack Developer | Food Engineer | 
 ```	
 </h3>
