@@ -4,7 +4,7 @@
 	
 ```RD{
 	
- Senior Postdoctoral Fellow | Professor | Data Scientist | Fullstack Developer
+ Data Scientist | Fullstack Developer | Food Engineer | 
 ```	
 </h3>
 
