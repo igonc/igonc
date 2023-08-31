@@ -6,12 +6,33 @@ Data Scientist | Machine Learning Specialist | FullStack Developer | Food Engine
 
 <h4 align="justify" height="20" >
 
-Passionate about leveraging technology and innovation to drive health-conscious and sustainable solutions. With a strong background as a food engineer researcher, I've honed expertise in data analysis, mathematical modeling, machine-learning algorithms, and artificial intelligence. My journey includes pioneering work in emerging technologies, project management, computational simulation, and manufacturing cost evaluation.
-Currently pursuing a bachelor's in computer science to complement my specialization in data analysis, along with a background that encompasses a Bachelor's and PhD in Food Engineering. I'm dedicated to driving innovation, fostering teamwork, and delivering results.
+🚀 About Me
+
+Greetings! I'm a tech enthusiast with a passion for harnessing data-driven insights to shape the future. My career journey has been a thrilling adventure, marked by continuous growth and transformation.
+
+🔍 Data Science & Tech Trailblazer
+
+My professional evolution might seem unconventional. I began my journey with a Bachelor's in Food Engineering, which laid the foundation for my analytical thinking and problem-solving abilities. I then pursued higher education, earning a Master's, PhD, and Postdoc, all while diving headfirst into the world of machine learning algorithms and multivariate statistical techniques.
+
+🧪 From Food Engineering to Data Alchemy
+
+For many years, I contributed as a dedicated researcher and professor in the field of Food Engineering, making strides in areas such as computational simulation, product development, process optimization, and manufacturing cost evaluation. My expertise grew to encompass data analysis, mathematical modeling, machine-learning algorithms, and artificial intelligence.
+
+🌐 Venturing into IT and Data Science
+
+Recently, I embarked on an exhilarating career transition into the IT realm, specializing in data science and machine learning. Nowadays, I'm pursuing a Bachelor's in Computer Science to complement my existing skills, cementing my commitment to innovation and interdisciplinary excellence.
+
+💼 Hard and Soft Skills
+
+Here's a snapshot of my skill set:
 
 Hard Skills: Intellectual Property | Agile Management | PDCA | Big Data | SQL | NoSQL | Power BI | Tableau | Python | R | JavaScript | Java | Matlab | SuperPro Designer | Aspen
 
 Soft Skills: Time Management | Critical Thinking | Empathy | Teamwork | Communication | Emotional Intelligence | Work Ethic | Resilience | Adaptability | Self-Motivation
+
+👥 Let's Connect
+
+I'm eager to connect with like-minded professionals who share my enthusiasm for data, technology, and innovation. If you're interested in discussing exciting opportunities, collaborating on projects, or simply exchanging insights, please feel free to reach out.
 
 	
 </h4>
