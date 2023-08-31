@@ -6,15 +6,13 @@ Data Scientist | Fullstack Developer | Food Engineer |
 
 <h4 align="justify" height="20" >
 
-Welcome to my profile!
+Passionate about leveraging technology and innovation to drive health-conscious and sustainable solutions. With a strong background as a food engineer researcher, I've honed expertise in data analysis, mathematical modeling, machine-learning algorithms, and artificial intelligence. My journey includes pioneering work in emerging technologies, project management, computational simulation, and manufacturing cost evaluation.
+Currently pursuing a bachelor's in computer science to complement my specialization in data analysis, along with a background that encompasses a Bachelor's and PhD in Food Engineering. I'm dedicated to driving innovation, fostering teamwork, and delivering results.
 
-I have a career oriented to technological innovation, sustainability and healthiness with projects focused on Product Design, Process Optimization, Exploratory Data Analysis, Mathematical Modeling, Machine-Learning and Deep Learning. My background includes a large experience as a food engineer researcher working with Emerging Technologies, Analytical Tools & Methods, Project Management, Functional & Nutraceutical Products, Computational Simulation and Manufacturing Cost Analysis.
+Hard Skills: Intellectual Property | Agile Management | PDCA | Big Data | SQL | NoSQL | Power BI | Tableau | Python | R | JavaScript | Java | Matlab | SuperPro Designer | Aspen
 
-Skills: 
+Soft Skills: Time Management | Critical Thinking | Empathy | Teamwork | Communication | Emotional Intelligence | Work Ethic | Resilience | Adaptability | Self-Motivation
 
-Big Data | SQL | NoSQL | Python | R | Machine Learning | RNNs | CNNs | PowerBI | Tableau | JavaScript | Java | Matlab | SuperPro Designer | Aspen | Intellectual Property | Agile Management | PDCA | Cost & Budget Analysis | 
-
-Time Management | Critical Thinking | Empathy | Teamwork | Communication | Emotional Intelligence | Problem-solving | Work Ethic | Conflict Resolution | Resilience | Adaptability | Self-Motivation
 	
 </h4>
 
