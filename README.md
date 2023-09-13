@@ -8,7 +8,7 @@ Data Scientist | Machine Learning Specialist | FullStack Developer | Food Engine
 
 🚀 About Me
 
-Greetings! I'm a tech enthusiast with a passion for harnessing data-driven insights to shape the future. My career journey has been a thrilling adventure, marked by continuous growth and transformation.
+Hey! I'm a tech enthusiast with a passion for harnessing data-driven insights to shape the future. My career journey has been a thrilling adventure, marked by continuous growth and transformation.
 
 🔍 Data Science & Tech Trailblazer
 
